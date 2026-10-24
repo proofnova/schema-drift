@@ -16,7 +16,7 @@ Problem: 두 데이터 스냅샷의 필드 삭제·형식 변화·새 null·선�
 
 1. Same functionality already exists? Yes, underlying domain operations are established. An existing tool configured for this exact task may remove the need for a separate project.
 2. Existing configuration enough? Plausibly; no exhaustive plugin/configuration execution was completed. Check the nearest tool before expanding this prototype.
-3. Another name? Search terms include Schema drift analyst; schema drift; 두 데이터 스냅샷의 필드 삭제·형식 변화·새 null·선택 필드를 분류한다.; great-expectations; duckdb. Existing algorithm names appear in the method above.
+3. Another name? Search terms include schema drift snapshot type optional field validation 스키마 변경. Existing algorithm names appear in the method above.
 4. Important user difference? Fewer runtime dependencies and a validated tool boundary are concrete; actual adoption and time savings remain unmeasured.
 5. Added complexity? Structured JSON is a real setup cost. A browser example and exact field errors reduce it, but do not erase it.
 6. Retraction evidence? An existing setup with the same access/contract or a failed invariant/performance comparison removes the claimed practical advantage.
